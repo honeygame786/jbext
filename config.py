@@ -4,22 +4,22 @@ from os import getenv
 
 
 # ------------------------------------------------
-API_ID = int(os.environ.get("API_ID", "211966"))
+API_ID = int(os.environ.get("API_ID", "19979002"))
 # ------------------------------------------------
-API_HASH = os.environ.get("API_HASH","d97919fb0abb2a25bbb37d57c")
+API_HASH = os.environ.get("API_HASH","200505dafbb32ed69aefefc013c3939d")
 # ------------------------------------------------
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "7695160505:AAHq6aaYHdINj5-cK4tR7qv6A")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "7755414801:AAF3D-CQCvmpo99AT-zX1_ub4fN5msx-6V8")
 # ------------------------------------------------
 BOT_USERNAME = os.environ.get("BOT_USERNAME", "@prowithehbot")
 BOT_TEXT = "𝐏𝐑𝐎 𝐄𝐗𝐓𝐑𝐀𝐂𝐓𝐎𝐑 🫵"
 # ------------------------------------------------
-OWNER_ID = int(os.environ.get("OWNER_ID", "716886"))
+OWNER_ID = int(os.environ.get("OWNER_ID", "6378469891"))
 # ------------------------------------------------
 # //LOG CHANNEL ID 
-CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-100253702"))
+CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002634048665"))
 
 # //FORCE_CHANNEL_ID
-CHANNEL_ID2 = int(os.environ.get("CHANNEL_ID2", "-100255202")) 
+CHANNEL_ID2 = int(os.environ.get("CHANNEL_ID2", "")) 
 # -----------------------------------------------
 MONGO_URL = os.environ.get("MONGO_URL", "mongod_url")
 # -----------------------------------------------
@@ -31,7 +31,7 @@ UNSPLASH_ACCESS_KEY = 'RabDRmuXXBobanmwwbvpP5LwoG4J8ox34y5Sstz-9jk'
 # -----------------------------------------------
 UNSPLASH_QUERY = 'animal baby'
 # -----------------------------------------------
-ADMIN_BOT_USERNAME = "urban_rider2007" #without @
+ADMIN_BOT_USERNAME = "JONASLA1991" #without @
 
 THUMB_URL = os.environ.get("THUMB_URL", "https://envs.sh/9HT.jpg")
 
